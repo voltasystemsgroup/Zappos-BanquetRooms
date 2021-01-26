@@ -1,0 +1,18 @@
+<Device Model="CP3N">
+   <Network Type="Cresnet" Id="01"/>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="TSW-760-NC" DeviceId="31"/>
+      <Device Model="TSW-760-NC" DeviceId="32"/>
+      <Device Model="TSW-760-NC" DeviceId="33"/>
+      <Device Model="DM-NVX-350C,DM-NVX-351C" DeviceId="71" Name="Room01 Solstice"/>
+      <Device Model="DM-NVX-350C,DM-NVX-351C" DeviceId="72" Name="Room02 Solstice"/>
+      <Device Model="DM-NVX-350C,DM-NVX-351C" DeviceId="73" Name="Room03 Solstice"/>
+      <Device Model="DM-NVX-350C,DM-NVX-351C" DeviceId="74" Name="All Rooms Solstice"/>
+      <Device Model="DM-NVX-350,DM-NVX-351" DeviceId="91" Name="Christie Projector 01"/>
+      <Device Model="DM-NVX-350,DM-NVX-351" DeviceId="92" Name="Christie Projector 02"/>
+      <Device Model="DM-NVX-350,DM-NVX-351" DeviceId="93" Name="Christie Projector 03"/>
+      <Device Model="DM-NVX-350,DM-NVX-351" DeviceId="94" Name="Room01 Inputs"/>
+      <Device Model="DM-NVX-350,DM-NVX-351" DeviceId="95" Name="Room02 Inputs"/>
+      <Device Model="DM-NVX-350,DM-NVX-351" DeviceId="96" Name="Room03 Inputs"/>
+   </Network>
+</Device>
